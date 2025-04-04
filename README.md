@@ -1,7 +1,3 @@
-Claro! Aqui está uma sugestão de README simples e organizado para o repositório [LeonardoDanna/visudedados](https://github.com/LeonardoDanna/visudedados), considerando que o objetivo é armazenar questões relacionadas à disciplina de Visualização de Dados:
-
----
-
 # 📊 Visualização de Dados — Lista de Questões
 
 Repositório com questões resolvidas da disciplina de **Visualização de Dados**, do curso de **Sistemas de Informação** na **PUC-Campinas**.
