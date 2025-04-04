@@ -1,6 +1,6 @@
 # 📊 Visualização de Dados — Lista de Questões
 
-Repositório com questões resolvidas da disciplina de **Visualização de Dados**, do curso de **Sistemas de Informação** na **PUC-Campinas**.
+Repositório com questões resolvidas da disciplina de **Estudos Avançados de Banco de Dados**, do curso de **Sistemas de Informação** na **PUC-Campinas**.
 
 Este projeto tem como objetivo reunir exercícios práticos sobre os conceitos fundamentais da visualização de dados, com foco em aprendizado, organização e revisão dos principais tópicos abordados em aula.
 
@@ -53,4 +53,4 @@ As questões estão organizadas em notebooks Jupyter (`.ipynb`) e envolvem temas
 
 ## 📚 Sobre a disciplina
 
-A disciplina de **Ciência de Dados** aborda os princípios de design e análise de dados visuais, permitindo representar conjuntos de dados de forma clara, estética e eficiente. É uma área essencial em Data Science, Business Intelligence e áreas relacionadas à tomada de decisão baseada em dados.
+A disciplina de **Estudos Avançados de Banco de Dados** aborda os princípios de design e análise de dados visuais, permitindo representar conjuntos de dados de forma clara, estética e eficiente. É uma área essencial em Data Science, Business Intelligence e áreas relacionadas à tomada de decisão baseada em dados.
